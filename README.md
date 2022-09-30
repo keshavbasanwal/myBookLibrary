@@ -6,9 +6,11 @@
 
 
 ### Books I have Read thus far
-. Superintelligence: Paths, Dangers, Strategies by Nick Bostrom 
+-  Superintelligence: Paths, Dangers, Strategies by Nick Bostrom 
 https://www.goodreads.com/book/show/20527133-superintelligence
-.
+- The Mind's I by Daniel Dennett and Douglas Hofstadter
+https://www.goodreads.com/en/book/show/2081
+
 
 ### Books I think I will Read in future
 . 
