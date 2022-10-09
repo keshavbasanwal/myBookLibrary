@@ -12,8 +12,10 @@ https://www.goodreads.com/book/show/20527133-superintelligence
 https://www.goodreads.com/en/book/show/2081
 - The Last Wish by Andrzej Sapkowski
 https://www.goodreads.com/book/show/40603587-the-last-wish
-- The Brain A Beginner's Guide By Ammar al-Chalabi, Martin R. Turner, R. Shane Delamont 
+- The Brain A Beginner's Guide by Ammar al-Chalabi, Martin R. Turner, R. Shane Delamont 
 https://www.goodreads.com/book/show/1623489.The_Brain
+- Pro Git by Ben Straub and Scott Chacon (about 100 pages)
+https://www.goodreads.com/en/book/show/6518085-pro-git
 
 
 ### Books I think I will Read in future
