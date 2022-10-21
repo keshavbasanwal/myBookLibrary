@@ -19,4 +19,15 @@ https://www.goodreads.com/en/book/show/6518085-pro-git
 
 
 ### Books I think I will Read in future
-. 
+- The Left Hand of Darkness by Ursula K. Le Guin
+- Foundation by Isaac Asimov
+- Through the Looking-Glass by Lewis Carroll
+- The Illustrated Man by Ray Bradbury
+- The Count of Monte Cristo by Alexandre Dumas
+- The Stars My Destination by Alfred Bester 
+- Lord of the Flies by William Golding
+- Crime and Punishment by Fyodor Dostoevsky
+- The Big Sleep by Raymond Chandler
+- The Long Goodbye by Raymond Chandler
+- The Brothers Karamazov by Fyodor Dostoevsky
+ 
