@@ -6,6 +6,9 @@
 
 
 ### Books I have Read thus far
+- Metamorphosis by Franz Kafka
+|| https://www.goodreads.com/book/show/485894.The_Metamorphosis
+|| https://www.gutenberg.org/files/5200/5200-h/5200-h.htm
 - The Last Wish by Andrzej Sapkowski
 || https://www.goodreads.com/book/show/40603587-the-last-wish
 - The Brain A Beginner's Guide by Ammar al-Chalabi, Martin R. Turner, R. Shane Delamont (whole book)
@@ -18,9 +21,6 @@
 || https://www.goodreads.com/book/show/20527133-superintelligence
 - The Mind's I by Daniel Dennett and Douglas Hofstadter
 || https://www.goodreads.com/en/book/show/2081
-- Metamorphosis by Franz Kafka
-|| https://www.goodreads.com/book/show/485894.The_Metamorphosis
-|| https://www.gutenberg.org/files/5200/5200-h/5200-h.htm
 
 ### Books I think I will Read in future
 - The Left Hand of Darkness by Ursula K. Le Guin
