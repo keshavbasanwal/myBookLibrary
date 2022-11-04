@@ -2,7 +2,9 @@
 ## A Simple journal to keep track of all the books I have read thus far and those I want to read.
 
 
-``` will add this to my website ( work in progress)  in future. ```
+``` 
+will add this to my website ( work in progress)  in future. 
+```
 
 
 ### Books I have Read thus far
@@ -34,4 +36,20 @@
 - The Big Sleep by Raymond Chandler
 - The Long Goodbye by Raymond Chandler
 - The Brothers Karamazov by Fyodor Dostoevsky
+- Mind Children: The Future of Robot and Human Intelligence by Hans Moravec
+
+### recommendations by Siddharth
+- Sapiens: A Brief History of Humankind by Yuval Noah Harari
+- Freedom from the Known by Jiddu Krishnamurti
+- No More Mr. Nice Guy by Robert A. Glover
+- The Art of Impossible: A Peak Performance Primer by Steven Kotler
+- Ad se ipsum libri XII by Marcus Aurelius
+- The Prince and The Discourses by Niccolò Machiavelli
+- Influence: Science and Practice by Robert Cialdini
+- Mastery Book by Robert Greene
+- The Art of Seduction by Robert Greene
+- The Daily Laws: 366 Meditations on Power, Seduction, Mastery, Strategy, and Human Nature by Robert Greene
+- The 4-Hour Workweek by Tim Ferriss
+- 
+
  
