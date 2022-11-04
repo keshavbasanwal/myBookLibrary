@@ -21,8 +21,12 @@ will add this to my website ( work in progress)  in future.
 ### Books I am Reading rn
 -  Superintelligence: Paths, Dangers, Strategies by Nick Bostrom 
 || https://www.goodreads.com/book/show/20527133-superintelligence
+
 - The Mind's I by Daniel Dennett and Douglas Hofstadter
 || https://www.goodreads.com/en/book/show/2081
+
+- The Last Question story by Isaac Asimov                                     
+
 
 ### Books I think I will Read in future
 - The Left Hand of Darkness by Ursula K. Le Guin
