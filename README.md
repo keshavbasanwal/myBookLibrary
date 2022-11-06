@@ -53,6 +53,9 @@ The Hitchhiker's Trilogy by Douglas Adams
 - The Brothers Karamazov by Fyodor Dostoevsky
 - Mind Children: The Future of Robot and Human Intelligence by Hans Moravec
 
+### books I need to read to become a better programmer
+- JavaScript: The Good Parts by Douglas Crockford
+
 ### recommendations by Siddharth
 - Sapiens: A Brief History of Humankind by Yuval Noah Harari
 - Freedom from the Known by Jiddu Krishnamurti
