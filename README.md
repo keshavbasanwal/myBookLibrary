@@ -36,7 +36,10 @@ The Hitchhiker's Trilogy by Douglas Adams
 - The Mind's I by Daniel Dennett and Douglas Hofstadter
 || https://www.goodreads.com/en/book/show/2081
 
+- Sword of Destiny by Andrzej Sapkowski
+    || https://www.goodreads.com/book/show/25454056-sword-of-destiny
 
+- The Art of Impossible: A Peak Performance Primer by Steven Kotler || https://www.goodreads.com/en/book/show/50209348-the-art-of-impossible
 
 ### Books I think I will Read in future
 
@@ -60,7 +63,6 @@ The Hitchhiker's Trilogy by Douglas Adams
 - Sapiens: A Brief History of Humankind by Yuval Noah Harari
 - Freedom from the Known by Jiddu Krishnamurti
 - No More Mr. Nice Guy by Robert A. Glover
-- The Art of Impossible: A Peak Performance Primer by Steven Kotler
 - Ad se ipsum libri XII by Marcus Aurelius
 - The Prince and The Discourses by Niccolò Machiavelli
 - Influence: Science and Practice by Robert Cialdini
