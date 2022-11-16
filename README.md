@@ -41,6 +41,9 @@ The Hitchhiker's Trilogy by Douglas Adams
 
 - The Art of Impossible: A Peak Performance Primer by Steven Kotler || https://www.goodreads.com/en/book/show/50209348-the-art-of-impossible
 
+- Pride and Prejudice by Jane Austen || https://www.goodreads.com/book/show/1885.Pride_and_Prejudice || https://www.gutenberg.org/cache/epub/1342/pg1342-images.html#page_1
+
+- The Lost Art of Running: A Journey to Rediscover the Forgotten Essence of Human Movement by Shane Benzie, Tim Major || https://www.goodreads.com/book/show/55032554-the-lost-art-of-running
 ### Books I think I will Read in future
 
 - The Left Hand of Darkness by Ursula K. Le Guin
