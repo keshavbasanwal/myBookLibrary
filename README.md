@@ -50,6 +50,8 @@ The Hitchhiker's Trilogy by Douglas Adams
 ### Books I think I will Read in future
 
 - The Left Hand of Darkness by Ursula K. Le Guin
+- Wuthering Heights by Emily Brontë
+
 - Foundation by Isaac Asimov
 - Through the Looking-Glass by Lewis Carroll
 - The Illustrated Man by Ray Bradbury
