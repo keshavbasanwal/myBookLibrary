@@ -1,5 +1,5 @@
 # myBookLibrary
-## A Simple journal to keep track of all the books I have read thus far and those I want to read.
+## A Simple journal to keep track of what I have read thus far and what I want to read in future.
 
 
 ``` 
@@ -26,7 +26,11 @@ will add this to my website ( work in progress)  in future.
 || https://www.goodreads.com/book/show/4808763-the-last-question 
 || http://users.ece.cmu.edu/~gamvrosi/thelastq.html 
 
-The Hitchhiker's Trilogy by Douglas Adams
+- The Shroud by Munshi Premchand
+- The Hitchhiker's Trilogy by Douglas Adams
+- Roots by Ismat Chugtai
+- Birthday by Vaikom Muhammad Basheer
+- The Art of Impossible: A Peak Performance Primer by Steven Kotler || https://www.goodreads.com/en/book/show/50209348-the-art-of-impossible
 
 ### Books I am Reading rn
 
@@ -39,8 +43,6 @@ The Hitchhiker's Trilogy by Douglas Adams
 - Sword of Destiny by Andrzej Sapkowski
     || https://www.goodreads.com/book/show/25454056-sword-of-destiny
 
-- The Art of Impossible: A Peak Performance Primer by Steven Kotler || https://www.goodreads.com/en/book/show/50209348-the-art-of-impossible
-
 - Pride and Prejudice by Jane Austen || https://www.goodreads.com/book/show/1885.Pride_and_Prejudice || https://www.gutenberg.org/cache/epub/1342/pg1342-images.html#page_1
 
 - The Lost Art of Running: A Journey to Rediscover the Forgotten Essence of Human Movement by Shane Benzie, Tim Major || https://www.goodreads.com/book/show/55032554-the-lost-art-of-running
@@ -51,13 +53,13 @@ The Hitchhiker's Trilogy by Douglas Adams
 
 - The Left Hand of Darkness by Ursula K. Le Guin
 - Wuthering Heights by Emily Brontë
-
 - Foundation by Isaac Asimov
+- The God of Small Things by Arundhati Roy
 - Through the Looking-Glass by Lewis Carroll
 - The Illustrated Man by Ray Bradbury
 - The Count of Monte Cristo by Alexandre Dumas
 - The Stars My Destination by Alfred Bester 
-- Why We Run Book by Bernd Heinrich
+- Why We Run by Bernd Heinrich
 - Lord of the Flies by William Golding
 - Crime and Punishment by Fyodor Dostoevsky
 - The Big Sleep by Raymond Chandler
@@ -75,10 +77,8 @@ The Hitchhiker's Trilogy by Douglas Adams
 - Ad se ipsum libri XII by Marcus Aurelius
 - The Prince and The Discourses by Niccolò Machiavelli
 - Influence: Science and Practice by Robert Cialdini
-- Mastery Book by Robert Greene
+- Mastery by Robert Greene
 - The Art of Seduction by Robert Greene
 - The Daily Laws: 366 Meditations on Power, Seduction, Mastery, Strategy, and Human Nature by Robert Greene
 - The 4-Hour Workweek by Tim Ferriss
-- 
-
  
