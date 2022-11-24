@@ -10,7 +10,7 @@ will add this to my website ( work in progress)  in future.
 ### Books I have Read thus far
 
 - Metamorphosis by Franz Kafka
-|| [Goodreads page](https://www.goodreads.com/book/show/485894.The Metamorphosis)
+|| [Goodreads page] ( https://www.goodreads.com/book/show/485894.The Metamorphosis )
 || [Read online](https://www.gutenberg.org/files/5200/5200-h/5200-h.htm)
 
 - The Last Wish by Andrzej Sapkowski
