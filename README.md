@@ -10,14 +10,14 @@ will add this to my website ( work in progress)  in future.
 ### Books I have Read thus far
 
 - Metamorphosis by Franz Kafka
-|| [Goodreads page] ( https://www.goodreads.com/book/show/485894.The Metamorphosis )
+|| [Goodreads page](https://www.goodreads.com/book/show/485894.The_Metamorphosis)
 || [Read online](https://www.gutenberg.org/files/5200/5200-h/5200-h.htm)
 
 - The Last Wish by Andrzej Sapkowski
 || [Goodreads page](https://www.goodreads.com/book/show/40603587-the-last-wish)
 
 - The Brain A Beginner's Guide by Ammar al-Chalabi, Martin R. Turner, R. Shane Delamont (whole book)
-|| [Goodreads page](https://www.goodreads.com/book/show/1623489.The Brain)
+|| [Goodreads page](https://www.goodreads.com/book/show/1623489.The_Brain)
 
 - Pro Git by Ben Straub and Scott Chacon (about 100 pages)
 || [Goodreads page](https://www.goodreads.com/en/book/show/6518085-pro-git)
