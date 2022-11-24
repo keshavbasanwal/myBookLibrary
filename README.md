@@ -10,42 +10,47 @@ will add this to my website ( work in progress)  in future.
 ### Books I have Read thus far
 
 - Metamorphosis by Franz Kafka
-|| https://www.goodreads.com/book/show/485894.The Metamorphosis
-|| https://www.gutenberg.org/files/5200/5200-h/5200-h.htm
+|| [Goodreads page](https://www.goodreads.com/book/show/485894.The Metamorphosis)
+|| [Read online](https://www.gutenberg.org/files/5200/5200-h/5200-h.htm)
 
 - The Last Wish by Andrzej Sapkowski
-|| https://www.goodreads.com/book/show/40603587-the-last-wish
+|| [Goodreads page](https://www.goodreads.com/book/show/40603587-the-last-wish)
 
 - The Brain A Beginner's Guide by Ammar al-Chalabi, Martin R. Turner, R. Shane Delamont (whole book)
-|| https://www.goodreads.com/book/show/1623489.The Brain
+|| [Goodreads page](https://www.goodreads.com/book/show/1623489.The Brain)
 
 - Pro Git by Ben Straub and Scott Chacon (about 100 pages)
-|| https://www.goodreads.com/en/book/show/6518085-pro-git
+|| [Goodreads page](https://www.goodreads.com/en/book/show/6518085-pro-git)
 
 - The Last Question by Isaac Asimov 
-|| https://www.goodreads.com/book/show/4808763-the-last-question 
-|| http://users.ece.cmu.edu/~gamvrosi/thelastq.html 
+|| [Goodreads page](https://www.goodreads.com/book/show/4808763-the-last-question )
+|| [Read online](http://users.ece.cmu.edu/~gamvrosi/thelastq.html )
 
 - The Shroud by Munshi Premchand
+[//]: # (This is trial comment)
 - The Hitchhiker's Trilogy by Douglas Adams
 - Roots by Ismat Chugtai
 - Birthday by Vaikom Muhammad Basheer
-- The Art of Impossible: A Peak Performance Primer by Steven Kotler || https://www.goodreads.com/en/book/show/50209348-the-art-of-impossible
+- The Art of Impossible: A Peak Performance Primer by Steven Kotler 
+|| [Goodreads page](https://www.goodreads.com/en/book/show/50209348-the-art-of-impossible)
 
 ### Books I am Reading rn
 
 -  Superintelligence: Paths, Dangers, Strategies by Nick Bostrom 
-|| https://www.goodreads.com/book/show/20527133-superintelligence
+|| [Goodreads page](https://www.goodreads.com/book/show/20527133-superintelligence)
 
 - The Mind's I by Daniel Dennett and Douglas Hofstadter
-|| https://www.goodreads.com/en/book/show/2081
+|| [Goodreads page](https://www.goodreads.com/en/book/show/2081)
 
 - Sword of Destiny by Andrzej Sapkowski
-    || https://www.goodreads.com/book/show/25454056-sword-of-destiny
+    || [Goodreads page](https://www.goodreads.com/book/show/25454056-sword-of-destiny)
 
-- Pride and Prejudice by Jane Austen || https://www.goodreads.com/book/show/1885.Pride_and_Prejudice || https://www.gutenberg.org/cache/epub/1342/pg1342-images.html#page_1
+- Pride and Prejudice by Jane Austen 
+|| [Goodreads page](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice )
+|| [Read online](https://www.gutenberg.org/cache/epub/1342/pg1342-images.html#page_1)
 
-- The Lost Art of Running: A Journey to Rediscover the Forgotten Essence of Human Movement by Shane Benzie, Tim Major || https://www.goodreads.com/book/show/55032554-the-lost-art-of-running
+- The Lost Art of Running: A Journey to Rediscover the Forgotten Essence of Human Movement by Shane Benzie, Tim Major 
+|| [Goodreads page](https://www.goodreads.com/book/show/55032554-the-lost-art-of-running)
 
 
 
