@@ -56,6 +56,7 @@ will add this to my website ( work in progress)  in future.
 
 ### Books I think I will Read in future
 - Getting Things Done by David Allen
+- The Pragmatic Programmer by Andy Hunt and Dave Thomas
 - The Left Hand of Darkness by Ursula K. Le Guin
 - Wuthering Heights by Emily Brontë
 - Foundation by Isaac Asimov
