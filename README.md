@@ -9,6 +9,13 @@ will add this to my website ( work in progress)  in future.
 
 ### Books I have Read thus far
 
+
+- The Hitchhiker's Trilogy by Douglas Adams
+|| [Goodreads page](https://www.goodreads.com/book/show/8709.The_Hitchhiker_s_Trilogy)
+
+- The Catcher in the Rye by J. D. Salinger 
+|| [Goodreads Page](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye)
+
 - Metamorphosis by Franz Kafka
 || [Goodreads page](https://www.goodreads.com/book/show/485894.The_Metamorphosis)
 || [Read online](https://www.gutenberg.org/files/5200/5200-h/5200-h.htm)
@@ -23,14 +30,14 @@ will add this to my website ( work in progress)  in future.
 || [Goodreads page](https://www.goodreads.com/en/book/show/6518085-pro-git)
 
 - The Last Question by Isaac Asimov 
-|| [Goodreads page](https://www.goodreads.com/book/show/4808763-the-last-question )
-|| [Read online](http://users.ece.cmu.edu/~gamvrosi/thelastq.html )
+|| [Goodreads page](https://www.goodreads.com/book/show/4808763-the-last-question)
+|| [Read online](http://users.ece.cmu.edu/~gamvrosi/thelastq.html)
 
-- The Shroud by Munshi Premchand
-[//]: # (This is trial comment)
-- The Hitchhiker's Trilogy by Douglas Adams
-- Roots by Ismat Chugtai
-- Birthday by Vaikom Muhammad Basheer
+- Short Stories
+    - The Shroud by Munshi Premchand
+    - Roots by Ismat Chugtai
+    - Birthday by Vaikom Muhammad Basheer
+
 - The Art of Impossible: A Peak Performance Primer by Steven Kotler 
 || [Goodreads page](https://www.goodreads.com/en/book/show/50209348-the-art-of-impossible)
 
@@ -43,7 +50,7 @@ will add this to my website ( work in progress)  in future.
 || [Goodreads page](https://www.goodreads.com/en/book/show/2081)
 
 - Sword of Destiny by Andrzej Sapkowski
-    || [Goodreads page](https://www.goodreads.com/book/show/25454056-sword-of-destiny)
+|| [Goodreads page](https://www.goodreads.com/book/show/25454056-sword-of-destiny)
 
 - Pride and Prejudice by Jane Austen 
 || [Goodreads page](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice )
@@ -55,7 +62,7 @@ will add this to my website ( work in progress)  in future.
 
 
 ### Books I think I will Read in future
-- Nationalism by Rabindranath Tagore
+- Nationalism by Rabindranath Tagore || [Read online](https://www.gutenberg.org/files/40766/40766-h/40766-h.htm)
 - Getting Things Done by David Allen
 - The Pragmatic Programmer by Andy Hunt and Dave Thomas
 - The Left Hand of Darkness by Ursula K. Le Guin
