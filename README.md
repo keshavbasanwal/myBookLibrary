@@ -23,7 +23,7 @@ will add this to my website ( work in progress)  in future.
 - The Last Wish by Andrzej Sapkowski
 || [Goodreads page](https://www.goodreads.com/book/show/40603587-the-last-wish)
 
-- The Brain A Beginner's Guide by Ammar al-Chalabi, Martin R. Turner, R. Shane Delamont (whole book)
+- The Brain A Beginner's Guide by Ammar al-Chalabi, Martin R. Turner, R. Shane Delamont
 || [Goodreads page](https://www.goodreads.com/book/show/1623489.The_Brain)
 
 - Pro Git by Ben Straub and Scott Chacon (about 100 pages)
