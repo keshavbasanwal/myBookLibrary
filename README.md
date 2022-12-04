@@ -64,6 +64,7 @@ will add this to my website ( work in progress)  in future.
 ### Books I think I will Read in future
 - Nationalism by Rabindranath Tagore || [Read online](https://www.gutenberg.org/files/40766/40766-h/40766-h.htm)
 - Getting Things Done by David Allen
+- Brain Energy by Christopher M. Palmer
 - The Pragmatic Programmer by Andy Hunt and Dave Thomas
 - The Left Hand of Darkness by Ursula K. Le Guin
 - Wuthering Heights by Emily Brontë
