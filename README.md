@@ -16,6 +16,10 @@ will add this to my website ( work in progress)  in future.
 - The Catcher in the Rye by J. D. Salinger 
 || [Goodreads Page](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye)
 
+- Pride and Prejudice by Jane Austen 
+|| [Goodreads page](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice )
+|| [Read online](https://www.gutenberg.org/cache/epub/1342/pg1342-images.html#page_1)
+
 - Metamorphosis by Franz Kafka
 || [Goodreads page](https://www.goodreads.com/book/show/485894.The_Metamorphosis)
 || [Read online](https://www.gutenberg.org/files/5200/5200-h/5200-h.htm)
@@ -52,14 +56,15 @@ will add this to my website ( work in progress)  in future.
 - Sword of Destiny by Andrzej Sapkowski
 || [Goodreads page](https://www.goodreads.com/book/show/25454056-sword-of-destiny)
 
-- Pride and Prejudice by Jane Austen 
-|| [Goodreads page](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice )
-|| [Read online](https://www.gutenberg.org/cache/epub/1342/pg1342-images.html#page_1)
-
 - The Lost Art of Running: A Journey to Rediscover the Forgotten Essence of Human Movement by Shane Benzie, Tim Major 
 || [Goodreads page](https://www.goodreads.com/book/show/55032554-the-lost-art-of-running)
 
+- Anna Karenina by Lio Tolstoy
+|| [Goodreads page] (https://www.goodreads.com/book/show/15823480-anna-karenina)
+|| [Read online](https://www.gutenberg.org/cache/epub/1399/pg1399-images.html)
 
+- The God of Small Things by Arundhati Roy
+|| [Goodreads page] (https://www.goodreads.com/book/show/9777.The_God_of_Small_Things)
 
 ### Books I think I will Read in future
 - Nationalism by Rabindranath Tagore || [Read online](https://www.gutenberg.org/files/40766/40766-h/40766-h.htm)
@@ -69,7 +74,6 @@ will add this to my website ( work in progress)  in future.
 - The Left Hand of Darkness by Ursula K. Le Guin
 - Wuthering Heights by Emily Brontë
 - Foundation by Isaac Asimov
-- The God of Small Things by Arundhati Roy
 - Through the Looking-Glass by Lewis Carroll
 - The Illustrated Man by Ray Bradbury
 - The Count of Monte Cristo by Alexandre Dumas
