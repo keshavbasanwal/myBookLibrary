@@ -112,10 +112,19 @@ will add this to my website ( work in progress)  in future.
 - Direct Truth Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life By Kapil Gupta
 - The Great Mental Models Volume 1, 2, 3: General Thinking Concepts By Rhiannon Beaubien, Shane Parrish
 - The Old Man and the Sea By Ernest Hemingway
+- And Every Morning the Way Home Gets Longer and Longer By Fredrik Backman
+- The Strange Library By Haruki Murakami
 - Notes from Underground By Dostoyevsky, Fedor
+- The Art of Decision Making How We Move from Indecision to Smart Choices By Joseph Bikart
+- The Yellow Wall Paper By Charlotte Perkins Gilman
 - The Selfish Gene By Richard Dawkins
 - The God Delusion By Richard Dawkins
+- The Almanack Of Naval Ravikant A Guide to Wealth and Happiness By Eric Jorgenson
 - Mastery By Robert Greene 
 - The Daily Laws: 366 Meditations on Power, Seduction, Mastery, Strategy, and Human Nature by Robert Greene
 - The 4-Hour Workweek by Tim Ferriss
- 
+
+
+## books for Kristal 
+- The Little Prince By Antoine de Saint-Exupéry
+- The Giving Tree By Shel Silverstein
