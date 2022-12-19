@@ -97,7 +97,25 @@ will add this to my website ( work in progress)  in future.
 - The Prince and The Discourses by Niccolò Machiavelli
 - Influence: Science and Practice by Robert Cialdini
 - Mastery by Robert Greene
+- The Prince And The Discourses By Nicolo Machiavelli
 - The Art of Seduction by Robert Greene
+- Influence The Psychology of Persuasion By Robert B. Cialdini
+- No More Mr Nice Guy By Robert A. Glover
+- Deep Work Rules for Focused Success in a Distracted World By Cal Newport
+- Indistractable How to Control Your Attention and Choose Your Life By Nir Eyal, Julie Li-Eyal 
+- The 48 Laws of Power By Robert Greene, Joost Elffers
+- Antifragile Things That Gain from Disorder, Skin in the Game Hidden Asymmetries in Daily Life, The Black Swan The Impact of the Highly Improbable, Fooled by Randomness The Hidden Role of Chance in Life and in the Markets By Nassim Nicholas Taleb 
+- Seeking Wisdom From Darwin to Munger By Peter Bevelin
+- The Unfair Advantage How You Already Have What It Takes to Succeed By Ash Ali, Hasan Kubba
+- Harry Potter and the Methods of Rationality Book By Eliezer Yudkowsky
+- Rationality: From AI to Zombies by Eliezer Yudkowsky
+- Direct Truth Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life By Kapil Gupta
+- The Great Mental Models Volume 1, 2, 3: General Thinking Concepts By Rhiannon Beaubien, Shane Parrish
+- The Old Man and the Sea By Ernest Hemingway
+- Notes from Underground By Dostoyevsky, Fedor
+- The Selfish Gene By Richard Dawkins
+- The God Delusion By Richard Dawkins
+- Mastery By Robert Greene 
 - The Daily Laws: 366 Meditations on Power, Seduction, Mastery, Strategy, and Human Nature by Robert Greene
 - The 4-Hour Workweek by Tim Ferriss
  
