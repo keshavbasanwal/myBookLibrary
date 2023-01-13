@@ -10,6 +10,8 @@ will add this to my website ( work in progress)  in future.
 ### Books I have Read thus far
 
 
+- Sapiens: A Brief History of Humankind by Yuval Noah Harari
+
 - The Hitchhiker's Trilogy by Douglas Adams
 || [Goodreads page](https://www.goodreads.com/book/show/8709.The_Hitchhiker_s_Trilogy)
 
@@ -90,7 +92,7 @@ will add this to my website ( work in progress)  in future.
 - JavaScript: The Good Parts by Douglas Crockford
 
 ### recommendations by Siddharth
-- Sapiens: A Brief History of Humankind by Yuval Noah Harari
+
 - Freedom from the Known by Jiddu Krishnamurti
 - No More Mr. Nice Guy by Robert A. Glover
 - Ad se ipsum libri XII by Marcus Aurelius
