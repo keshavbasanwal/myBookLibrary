@@ -72,6 +72,8 @@ will add this to my website ( work in progress)  in future.
 - Nationalism by Rabindranath Tagore || [Read online](https://www.gutenberg.org/files/40766/40766-h/40766-h.htm)
 - Getting Things Done by David Allen
 - Brain Energy by Christopher M. Palmer
+- Republic by Plato
+- The Wealth of Nations by Adam Smith
 - The Pragmatic Programmer by Andy Hunt and Dave Thomas
 - The Left Hand of Darkness by Ursula K. Le Guin
 - Wuthering Heights by Emily Brontë
@@ -96,6 +98,7 @@ will add this to my website ( work in progress)  in future.
 - Freedom from the Known by Jiddu Krishnamurti
 - No More Mr. Nice Guy by Robert A. Glover
 - Ad se ipsum libri XII by Marcus Aurelius
+- Man's Search for Meaning by Viktore Frankl
 - The Prince and The Discourses by Niccolò Machiavelli
 - Influence: Science and Practice by Robert Cialdini
 - Mastery by Robert Greene
