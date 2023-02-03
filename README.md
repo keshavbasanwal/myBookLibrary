@@ -47,6 +47,9 @@ will add this to my website ( work in progress)  in future.
 - The Art of Impossible: A Peak Performance Primer by Steven Kotler 
 || [Goodreads page](https://www.goodreads.com/en/book/show/50209348-the-art-of-impossible)
 
+- The Alchemist by Paulo Coel
+- art of war by Sun Tzu
+
 ### Books I am Reading rn
 
 -  Superintelligence: Paths, Dangers, Strategies by Nick Bostrom 
@@ -74,14 +77,18 @@ will add this to my website ( work in progress)  in future.
 - Brain Energy by Christopher M. Palmer
 - Republic by Plato
 - The Wealth of Nations by Adam Smith
+- The Science of War : Defense Budgeting, Military Technology, Logistics, and Combat Outcomes By Michael E. O'Hanlon
+- The Military Maxims by Napoleon Bonaparte
 - The Pragmatic Programmer by Andy Hunt and Dave Thomas
+- The Ascent of Money by Niall Ferguson
 - The Left Hand of Darkness by Ursula K. Le Guin
 - Wuthering Heights by Emily Brontë
 - Foundation by Isaac Asimov
 - Through the Looking-Glass by Lewis Carroll
 - The Illustrated Man by Ray Bradbury
 - The Count of Monte Cristo by Alexandre Dumas
-- The Stars My Destination by Alfred Bester 
+- The Stars My Destination by Alfred Bester
+- Aids To Scouting: for N.-C.O.s and Men
 - Why We Run by Bernd Heinrich
 - Lord of the Flies by William Golding
 - Crime and Punishment by Fyodor Dostoevsky
