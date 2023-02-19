@@ -47,7 +47,7 @@ will add this to my website ( work in progress)  in future.
 - The Art of Impossible: A Peak Performance Primer by Steven Kotler 
 || [Goodreads page](https://www.goodreads.com/en/book/show/50209348-the-art-of-impossible)
 
-- The Alchemist by Paulo Coel
+- The Alchemist by Paulo Coelo
 - art of war by Sun Tzu
 
 ### Books I am Reading rn
@@ -72,6 +72,8 @@ will add this to my website ( work in progress)  in future.
 || [Goodreads page] (https://www.goodreads.com/book/show/9777.The_God_of_Small_Things)
 
 ### Books I think I will Read in future
+- The Constitution of Liberty By Friedrich Hayek
+- Leviathan By Thomas Hobbes
 - Nationalism by Rabindranath Tagore || [Read online](https://www.gutenberg.org/files/40766/40766-h/40766-h.htm)
 - Getting Things Done by David Allen
 - Brain Energy by Christopher M. Palmer
