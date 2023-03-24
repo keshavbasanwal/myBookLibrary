@@ -12,6 +12,8 @@ will add this to my website ( work in progress)  in future.
 
 - Sapiens: A Brief History of Humankind by Yuval Noah Harari
 
+- The Blue Castle by L.M. Montgomery
+
 - The Hitchhiker's Trilogy by Douglas Adams
 || [Goodreads page](https://www.goodreads.com/book/show/8709.The_Hitchhiker_s_Trilogy)
 
