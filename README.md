@@ -140,6 +140,11 @@ will add this to my website ( work in progress)  in future.
 - The Daily Laws: 366 Meditations on Power, Seduction, Mastery, Strategy, and Human Nature by Robert Greene
 - The 4-Hour Workweek by Tim Ferriss
 
+### recommendations by Vijay 
+- भारतीय दर्शन की रूपरेखा by Harendra Prasad Sinha
+
+
+
 
 ## books for Kristal 
 - The Little Prince By Antoine de Saint-Exupéry
