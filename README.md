@@ -54,11 +54,17 @@ will add this to my website ( work in progress)  in future.
 
 ### Books I am Reading rn
 
+- The Rust Programming Language by Steve Klabnik and Carol Nichols, with contributions from the Rust Community
+
 -  Superintelligence: Paths, Dangers, Strategies by Nick Bostrom 
 || [Goodreads page](https://www.goodreads.com/book/show/20527133-superintelligence)
 
 - The Mind's I by Daniel Dennett and Douglas Hofstadter
 || [Goodreads page](https://www.goodreads.com/en/book/show/2081)
+
+- Nationalism by Rabindranath Tagore || [Read online](https://www.gutenberg.org/files/40766/40766-h/40766-h.htm)
+
+- HOW TO SWIM : A Practical Manual of Swimming by a Practical Swimmer and a Guide to the Novice as well as the Expert by By JAMES H. STERRETT
 
 - Sword of Destiny by Andrzej Sapkowski
 || [Goodreads page](https://www.goodreads.com/book/show/25454056-sword-of-destiny)
@@ -76,7 +82,6 @@ will add this to my website ( work in progress)  in future.
 ### Books I think I will Read in future
 - The Constitution of Liberty By Friedrich Hayek
 - Leviathan By Thomas Hobbes
-- Nationalism by Rabindranath Tagore || [Read online](https://www.gutenberg.org/files/40766/40766-h/40766-h.htm)
 - Getting Things Done by David Allen
 - Brain Energy by Christopher M. Palmer
 - Republic by Plato
