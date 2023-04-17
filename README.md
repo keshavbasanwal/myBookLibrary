@@ -54,7 +54,7 @@ will add this to my website ( work in progress)  in future.
 
 ### Books I am Reading rn
 
-- The Rust Programming Language by Steve Klabnik and Carol Nichols, with contributions from the Rust Community
+- The Rust Programming Language by Steve Klabnik and Carol Nichols, with contributions from the Rust Community || [Read online](https://doc.rust-lang.org/book/title-page.html)
 
 -  Superintelligence: Paths, Dangers, Strategies by Nick Bostrom 
 || [Goodreads page](https://www.goodreads.com/book/show/20527133-superintelligence)
@@ -64,7 +64,7 @@ will add this to my website ( work in progress)  in future.
 
 - Nationalism by Rabindranath Tagore || [Read online](https://www.gutenberg.org/files/40766/40766-h/40766-h.htm)
 
-- HOW TO SWIM : A Practical Manual of Swimming by a Practical Swimmer and a Guide to the Novice as well as the Expert by By JAMES H. STERRETT
+- HOW TO SWIM : A Practical Manual of Swimming by a Practical Swimmer and a Guide to the Novice as well as the Expert by By JAMES H. STERRETT || [Read online](https://www.gutenberg.org/cache/epub/70397/pg70397-images.html)
 
 - Sword of Destiny by Andrzej Sapkowski
 || [Goodreads page](https://www.goodreads.com/book/show/25454056-sword-of-destiny)
@@ -80,6 +80,8 @@ will add this to my website ( work in progress)  in future.
 || [Goodreads page] (https://www.goodreads.com/book/show/9777.The_God_of_Small_Things)
 
 ### Books I think I will Read in future
+- Great Expectations by Charles Dickens || [Read online](https://www.gutenberg.org/cache/epub/1400/pg1400-images.html)
+
 - The Constitution of Liberty By Friedrich Hayek
 - Leviathan By Thomas Hobbes
 - Getting Things Done by David Allen
