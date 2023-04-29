@@ -54,6 +54,13 @@ will add this to my website ( work in progress)  in future.
 
 ### Books I am Reading rn
 
+- Statistics, 4th Edition by David Freedman, Robert Pisani, Roger Purves
+
+- Statistics For Dummies by Deborah J. Rumsey
+
+- The open source way ||  [Read online](https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html)
+
+
 - The Rust Programming Language by Steve Klabnik and Carol Nichols, with contributions from the Rust Community || [Read online](https://doc.rust-lang.org/book/title-page.html)
 
 -  Superintelligence: Paths, Dangers, Strategies by Nick Bostrom 
