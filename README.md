@@ -12,6 +12,8 @@ will add this to my website ( work in progress)  in future.
 
 - Sapiens: A Brief History of Humankind by Yuval Noah Harari
 
+- Harry Potter and the Methods of Rationality by Eliezer Yudkowsky
+
 - The Blue Castle by L.M. Montgomery
 
 - The Hitchhiker's Trilogy by Douglas Adams
