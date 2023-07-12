@@ -96,6 +96,65 @@ will add this to my website ( work in progress)  in future.
 - Go Down Moses
 - AS I Lay Dying 
 - Flages in the Dust 
+- Nineteen Eighty-Four
+- Fahrenheit 451
+- A Brave New World
+- The great Gatsby (dropped)
+- Tender is the Night 
+- This side of Paradise 
+- The Coral Island
+- Heart of Darkness
+- Animal Farm 
+- A Tale of two Cities (dropped)
+- The Count of Monte Cristo
+- Madame Bovary 
+- The Name of the Wind
+- A Game of Thrones
+- Fire and Ice 
+- The Lord of the Rings 
+- I, Robot
+- Saturn's Children
+- The Robots of Down 
+- Do Androids Dream of Electric sheep?
+- The Kite Runner 
+- The Giver 
+- East of Eden 
+- Lord of the flies 
+- Les Miserables
+- The Grapes of Wrath 
+- The other Boleyn Girl 
+- Little Women 
+- Alligators All Around 
+- Bumble Ardy 
+- Where the Wild Things Are 
+- Outside Over there 
+- Salt on Out Skin 
+- Jane Eyre 
+- Gone with the Wind 
+- The Sound and the Fury 
+- Midnight's Children 
+- All the Pretty Horses 
+- Blood Meridian 
+- The Canterville Ghost 
+- The Happy Prince 
+- The Picture of Dorian Gray 
+- 7th Stigma
+- Dune 
+- Divergent 
+- The Sound the the Fury 
+- Shadows in Paradise 
+- Invisible Man 
+- Number the Stars
+- The Diary of a Young Girl 
+- I Know Why the Caged Bird Sings 
+- Survival In Auschwitz
+- The Color Purple 
+- Song of Solomon
+- First Among Equals 
+- To Kill a Mocking Bird 
+- The Madness of Love 
+- Eurydice
+-
 - Cat's cradle 
 - The Constitution of Liberty By Friedrich Hayek
 - Leviathan By Thomas Hobbes
