@@ -90,7 +90,13 @@ will add this to my website ( work in progress)  in future.
 
 ### Books I think I will Read in future
 - Great Expectations by Charles Dickens || [Read online](https://www.gutenberg.org/cache/epub/1400/pg1400-images.html)
-
+- The Taskmasters by Goerge K. Turner
+- The Handbook of computational Linguistics and Natural Language Processing 
+- That evening Sun 
+- Go Down Moses
+- AS I Lay Dying 
+- Flages in the Dust 
+- Cat's cradle 
 - The Constitution of Liberty By Friedrich Hayek
 - Leviathan By Thomas Hobbes
 - Getting Things Done by David Allen
