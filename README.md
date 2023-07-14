@@ -154,6 +154,35 @@ will add this to my website ( work in progress)  in future.
 - To Kill a Mocking Bird 
 - The Madness of Love 
 - Eurydice
+- A MIdsummer Night's Dream 
+- Into the Woods 
+- The Unbearable LIghtness of Being 
+- The Sun Also Rises 
+- The Old Man and the Sea
+- The Fountainhead
+- The Picture of Dorian Gray
+- Dr. Jekyll nad Mr. Hyde
+- Frankenstein
+- Franconomics 
+- Dracula
+- From Baghdad, with Love
+- Marley and Me
+- The Art of Racing in the Rain 
+- A Dog's Purpose 
+- Disgrace
+- Sula 
+- The Golden Notebook
+- The God of Small Things 
+- Gulliever's Travels 
+- Don Quixote
+- Faust
+- The Miller of old church
+- Swastika Night 
+- Fatherland
+- The Iron Dream 
+- The Man in the High Castle 
+- Rosshalde 
+- 
 -
 - Cat's cradle 
 - The Constitution of Liberty By Friedrich Hayek
