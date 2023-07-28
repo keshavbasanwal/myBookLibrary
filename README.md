@@ -88,6 +88,10 @@ will add this to my website ( work in progress)  in future.
 - The God of Small Things by Arundhati Roy
 || [Goodreads page] (https://www.goodreads.com/book/show/9777.The_God_of_Small_Things)
 
+### books I need to read to become a better Linguist
+- The Oxford Handbook of computational Linguistics edited by Ruslan Mitkov 
+- Syntactic Structures by Noam Chomsky 
+
 ### Books I think I will Read in future
 - Great Expectations by Charles Dickens || [Read online](https://www.gutenberg.org/cache/epub/1400/pg1400-images.html)
 - The Taskmasters by Goerge K. Turner
