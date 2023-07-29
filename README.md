@@ -286,7 +286,6 @@ will add this to my website ( work in progress)  in future.
 - The Language Instinct: How the Mind Creates Language" by Steven Pinker
 - https://github.com/hackerkid/Mind-Expanding-Books
 - The Last Wish by Andrzej Sapkowski
-- An Introduction To Sociolinguistics by Ronald Wardhaug and Janet M. Fuller
 - Insight by Tasha Eurich
 - House of Blades by Will Wight
 - Of Sea and Shadow by Will Wight
@@ -300,8 +299,7 @@ will add this to my website ( work in progress)  in future.
 - Harry Potter by J.K. Rawling
 - The Hobbit by J. R. R. Tolkien
 - Speech and Language Processing by Dan Jurafsky and James H. Martin
-- Natural Language Processing : A paninian Perspective by Akshar Bharati, Vineet chaitanya &
-- Rajeev Sangal
+- Natural Language Processing : A paninian Perspective by Akshar Bharati, Vineet chaitanya & Rajeev Sangal
 - A tale of two cities by Charles Dickens
 - The Art of Grammar: A Practical Guide by Alexandra Y. Aikhenvald
 - Key terms in linguistics by Howard Jackson
