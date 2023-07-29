@@ -132,7 +132,7 @@ will add this to my website ( work in progress)  in future.
 - Bumble Ardy 
 - Where the Wild Things Are 
 - Outside Over there 
-- Salt on Out Skin 
+- Salt on Our Skin 
 - Jane Eyre 
 - Gone with the Wind 
 - The Sound and the Fury 
@@ -142,6 +142,7 @@ will add this to my website ( work in progress)  in future.
 - The Canterville Ghost 
 - The Happy Prince 
 - The Picture of Dorian Gray 
+- De Profundis
 - 7th Stigma
 - Dune 
 - Divergent 
@@ -158,13 +159,12 @@ will add this to my website ( work in progress)  in future.
 - To Kill a Mocking Bird 
 - The Madness of Love 
 - Eurydice
-- A MIdsummer Night's Dream 
+- A Midsummer Night's Dream 
 - Into the Woods 
-- The Unbearable LIghtness of Being 
+- The Unbearable Lightness of Being 
 - The Sun Also Rises 
 - The Old Man and the Sea
 - The Fountainhead
-- The Picture of Dorian Gray
 - Dr. Jekyll nad Mr. Hyde
 - Frankenstein
 - Franconomics 
@@ -186,6 +186,13 @@ will add this to my website ( work in progress)  in future.
 - The Iron Dream 
 - The Man in the High Castle 
 - Rosshalde 
+- The Reader 
+- Escape from Freedom 
+- Auschwitz
+- Without Conscience: The Disturbing World of Psychopaths
+- Snakes in Suits by Robert D. Hare 
+- The Moon is a harsh Mistress by Robert A. Heinlein
+- The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, Jerome Friedman 
 - 
 -
 - Cat's cradle 
