@@ -192,9 +192,6 @@ will add this to my website ( work in progress)  in future.
 - Without Conscience: The Disturbing World of Psychopaths
 - Snakes in Suits by Robert D. Hare 
 - The Moon is a harsh Mistress by Robert A. Heinlein
-- The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, Jerome Friedman 
-- 
--
 - Cat's cradle 
 - The Constitution of Liberty By Friedrich Hayek
 - Leviathan By Thomas Hobbes
@@ -221,6 +218,7 @@ will add this to my website ( work in progress)  in future.
 - The Long Goodbye by Raymond Chandler
 - The Brothers Karamazov by Fyodor Dostoevsky
 - Mind Children: The Future of Robot and Human Intelligence by Hans Moravec
+- The Elements of Statistical Learning: Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, Jerome Friedman 
 
 ### books I need to read to become a better programmer
 - JavaScript: The Good Parts by Douglas Crockford
@@ -275,3 +273,35 @@ will add this to my website ( work in progress)  in future.
 ## books for Kristal 
 - The Little Prince By Antoine de Saint-Exupéry
 - The Giving Tree By Shel Silverstein
+
+
+## pending for sorting 
+- The Elements of Statistical Learning: Data Mining, Inference, and Prediction" by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
+- Introduction to the Theory of Statistics" by Mood, Graybill, and Boes
+- Probability and Statistics for Engineers and Scientists" by Walpole, Myers, Myers, and Ye
+- An Introduction to Language" by Victoria Fromkin, Robert Rodman, and Nina Hyams
+- The Structure of Language: An Introduction to Grammar" by Jackendoff
+- The Linguistic Society of America's Language Files: Materials for an Introduction to Language and Linguistics" edited by Diane Nelson, Fernando Martinez-Gil, and Christin Wilson
+- The Cambridge Handbook of Linguistic Typology" edited by Jae Jung Song
+- The Language Instinct: How the Mind Creates Language" by Steven Pinker
+- https://github.com/hackerkid/Mind-Expanding-Books
+- The Last Wish by Andrzej Sapkowski
+- An Introduction To Sociolinguistics by Ronald Wardhaug and Janet M. Fuller
+- Insight by Tasha Eurich
+- House of Blades by Will Wight
+- Of Sea and Shadow by Will Wight
+- Unsouled by Will Wight
+- The Restaurant at the End of the Universe by Douglas Adams
+- Automate the Boring stuff with python by Al Sweigart
+- Superintelligence by Nick Bostrom
+- The Eye of the World by Robert Jordan
+- One Hundred Years of Solitude by Gabriel García Márquez
+- She : A History of Adventure by H. Rider Haggard
+- Harry Potter by J.K. Rawling
+- The Hobbit by J. R. R. Tolkien
+- Speech and Language Processing by Dan Jurafsky and James H. Martin
+- Natural Language Processing : A paninian Perspective by Akshar Bharati, Vineet chaitanya &
+- Rajeev Sangal
+- A tale of two cities by Charles Dickens
+- The Art of Grammar: A Practical Guide by Alexandra Y. Aikhenvald
+- Key terms in linguistics by Howard Jackson
