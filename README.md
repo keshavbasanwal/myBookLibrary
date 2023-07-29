@@ -241,12 +241,17 @@ will add this to my website ( work in progress)  in future.
 - Deep Work Rules for Focused Success in a Distracted World By Cal Newport
 - Indistractable How to Control Your Attention and Choose Your Life By Nir Eyal, Julie Li-Eyal 
 - The 48 Laws of Power By Robert Greene, Joost Elffers
+- The laws of Seduction and the daily laws by Robert Green 
 - Antifragile Things That Gain from Disorder, Skin in the Game Hidden Asymmetries in Daily Life, The Black Swan The Impact of the Highly Improbable, Fooled by Randomness The Hidden Role of Chance in Life and in the Markets By Nassim Nicholas Taleb 
 - Seeking Wisdom From Darwin to Munger By Peter Bevelin
 - The Unfair Advantage How You Already Have What It Takes to Succeed By Ash Ali, Hasan Kubba
 - Harry Potter and the Methods of Rationality Book By Eliezer Yudkowsky
 - Rationality: From AI to Zombies by Eliezer Yudkowsky
 - Direct Truth Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life By Kapil Gupta
+- Seeking Truth by Kapil Gupta MD
+- Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets by Nassim Nicholas Taleb
+- The Black Swan: The Impact of the Highly Improbable by Nassim Nicholas Taleb
+
 - The Great Mental Models Volume 1, 2, 3: General Thinking Concepts By Rhiannon Beaubien, Shane Parrish
 - The Old Man and the Sea By Ernest Hemingway
 - And Every Morning the Way Home Gets Longer and Longer By Fredrik Backman
