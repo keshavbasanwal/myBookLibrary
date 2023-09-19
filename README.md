@@ -90,6 +90,7 @@ will add this to my website ( work in progress)  in future.
 
 ### books I need to read to become a better Linguist
 - The Oxford Handbook of computational Linguistics edited by Ruslan Mitkov 
+- Natural Language Processing with Python By Steven Bird, Ewan Klein, Edward Loper
 - Syntactic Structures by Noam Chomsky 
 
 ### Books I think I will Read in future
